@@ -1,9 +1,9 @@
-;(setq i 0)
-;(loop
- ;(setq i (+ i 1))
- ;(print i)
- ;(when(>= i 10) (return 0)) 
- ;)
+(setq i 0)
+(loop
+(setq i (+ i 1))
+(print i)
+(when(>= i 10) (return 0)) 
+)
 
 ;(loop for x in (list 1 2 3 4)
 ;      do (print (* x x))
