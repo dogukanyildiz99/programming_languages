@@ -29,3 +29,8 @@ T = [h]
 X = c
 Y = [d,e]
 Z = g
+
+yes
+| ?- append([a,b,c,d,e],f,X).
+
+X = [a,b,c,d,e|f]
