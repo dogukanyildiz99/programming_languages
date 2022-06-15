@@ -1,2 +1,2 @@
 # Programming Languages
-Codes from Programming languages classes using LISP and PROLOG
+Codes from Programming Languages course using LISP and PROLOG
